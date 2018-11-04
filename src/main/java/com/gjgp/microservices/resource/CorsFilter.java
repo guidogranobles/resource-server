@@ -1,4 +1,4 @@
-package com.gjgp.microservices.auth;
+package com.gjgp.microservices.resource;
 
 import java.io.IOException;
 
